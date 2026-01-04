@@ -2,3 +2,14 @@ streamlit
 torch
 torchvision
 pillow
+streamlit
+torch
+torchvision
+timm
+numpy
+pillow
+scikit-learn
+torch-geometric
+torch-scatter
+torch-sparse
+torch-cluster
